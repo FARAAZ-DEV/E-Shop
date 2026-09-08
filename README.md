@@ -62,4 +62,4 @@ This project is deployed via **GitHub Pages** directly from the `main` branch.
 
 ## Author
 
-Built by [Mohammad Faraz (FZXCODERS)](https://github.com/FARAAZ-DEV)
+Built by [Mohammad Faraz](https://github.com/FARAAZ-DEV)
