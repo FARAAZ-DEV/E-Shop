@@ -30,6 +30,7 @@ A responsive, multi-page e-commerce demo site built with plain HTML, CSS, Bootst
 - Vanilla JavaScript (no frameworks)
 
 ## Project Structure
+```text
 E-Shop/
 ├── index.html
 ├── About.html
@@ -44,6 +45,7 @@ E-Shop/
 ├── img/
 ├── svg/
 └── favicon.svg
+```
 
 ## Testing the 404 Page
 
