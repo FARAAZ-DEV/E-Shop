@@ -45,6 +45,19 @@ E-Shop/
 ├── svg/
 └── favicon.svg
 
+## Testing the 404 Page
+
+The custom 404 page is served automatically by GitHub Pages whenever a broken or non-existent URL is visited on the live site — no manual navigation needed.
+
+To test it, visit any made-up path on the live demo, for example:
+
+https://faraaz-dev.github.io/E-Shop/asdf123
+
+
+You should see the custom error page (matching navbar/footer, a "404 — Page Not Found" message, and buttons to go back home or browse products) instead of GitHub's default error screen.
+
+> Note: this only works on the deployed GitHub Pages site. Opening `404.html` directly from a local folder just opens that file — it won't trigger automatically, since there's no server to catch broken links locally.
+
 ## Running Locally
 
 No build tools or dependencies required — it's static HTML/CSS/JS.
